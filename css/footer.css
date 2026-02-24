@@ -167,6 +167,10 @@
 
 /* ---------- Newsletter Column ---------- */
 
+.footer-newsletter-heading {
+  margin-top: 12px;
+}
+
 .newsletter-text {
   line-height: 1.7;
   color: #b0b0b0;
